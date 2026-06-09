@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## About Me
-Name: [Your Name]
+Name: Mark Cheung
 Major: Computer Science
 
 ## Skills
@@ -15,4 +15,4 @@ Major: Computer Science
 - Project 2: TBD
 
 ## Contact
-Email: student@university.edu
+Email: mcheung41@myseneca.ca
